@@ -1,0 +1,1 @@
+.\bin\win32\x64\ffmpeg.exe -f gdigrab -i desktop -preset ultrafast -tune zerolatency -f flv rtmp://10.17.1.109:4000/live
